@@ -1,0 +1,13 @@
+{
+  "name": "magazine-layout",
+  "repo": "bmcmahen/magazine-layout",
+  "description": "some helper styles for magazine.js",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "magazine-layout.css"
+  ]
+}
